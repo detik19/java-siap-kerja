@@ -1,3 +1,5 @@
+package com.subrutin.java.learn;
+
 public class MainApp {
 
     public static void main(String[] args) {
